@@ -12,5 +12,6 @@ The Candle is a game based on Jerma985s description (https://youtu.be/RXHeyKeKLE
 9. At least 1 monster (https://youtu.be/RXHeyKeKLEU?t=469)
 10. Speedrunnable (https://youtu.be/RXHeyKeKLEU?t=471)
 11. No Sprint (https://youtu.be/RXHeyKeKLEU?t=475)
+12. Shooter with 2 bullets (https://youtu.be/RXHeyKeKLEU?t=478)
 
 It is 8 bit and written in Rust. 
