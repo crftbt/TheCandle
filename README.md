@@ -15,5 +15,6 @@ The Candle is a game based on Jerma985s description (https://youtu.be/RXHeyKeKLE
 12. Shooter with 2 bullets (https://youtu.be/RXHeyKeKLEU?t=478)
 13. Alien / Monster in you whole time (https://youtu.be/RXHeyKeKLEU?t=484)
 14. Monster comes from arm. (https://youtu.be/RXHeyKeKLEU?t=511)
+15. Last 10 minutes of hour, periodic tick damage from candle burning down (https://youtu.be/RXHeyKeKLEU?t=536)
 
 It is 8 bit and written in Rust. 
